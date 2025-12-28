@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently worked on web development<br>I am MERN Stack and PHP Laravel developer<br>I currently focus on learning web development deeply<br>
+I am currently working on web development<br>I am MERN Stack and PHP Laravel developer<br>I currently focus on learning web development deeply<br>
 
 
 ## 🌐 Socials:
